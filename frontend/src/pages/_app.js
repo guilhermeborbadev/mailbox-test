@@ -1,8 +1,8 @@
 import "@/styles/globals.css";
-import Head from 'next/head';
-import Link from 'next/link';
-import EmailIcon from '@mui/icons-material/Email';
-import {AccountBox} from '@mui/icons-material';
+import Head from "next/head";
+import Link from "next/link";
+import EmailIcon from "@mui/icons-material/Email";
+import { AccountBox } from "@mui/icons-material";
 
 export default function App({ Component, pageProps }) {
   return (
